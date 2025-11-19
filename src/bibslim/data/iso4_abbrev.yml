@@ -1,0 +1,6 @@
+# Minimal ISO4-inspired abbreviations used for venue normalization
+# Keys are case-insensitive (handled at runtime)
+acm transactions on database systems: TODS
+journal of machine learning research: JMLR
+proceedings of the acm on management of data: SIGMOD
+advances in neural information processing systems: NeurIPS
